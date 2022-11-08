@@ -72,12 +72,8 @@ An event ticketing app with low transaction fees and blockchain-driven anti-scal
 3. In Terminal, `cd` into the project directory
 4. In Terminal, run `npm run start`
 
-## Untested functionalities
-Should I be using modifiers to collapse duplicate code as much as possible? Or will I cause high gas/security problems?
+## Team Members
 
-## Acknowledgements
-Credits to Dapp University for the starter code for this app: 
-https://github.com/dappuniversity/marketplace
-https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app#dependencies
-
-Good source on using Remix for debugging: https://medium.com/linum-labs/error-vm-exception-while-processing-transaction-revert-8cd856633793
+* 20BKT0030 - Vaibhav Sharma
+* 20BCI0112 - Sritam Mishra
+* 20BKT0057 - Aryan Vishwakarma
